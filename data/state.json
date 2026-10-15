@@ -6,7 +6,7 @@
    "offer_ids": []
   },
   "https://mallofqatar.com.qa/en/events/Gear-Up-Win": {
-   "hash": "daf8b58d4147a818f83bcbf9909f242783389f9f",
+   "hash": "2a2e921bd5282f9bf25c4d67f6f498a28b25f4e7",
    "offer_ids": [
     "d11212d810a95b66",
     "f0f3f198817ae60c",
@@ -30,9 +30,9 @@
    "offer_ids": []
   },
   "https://www.placevendomeqatar.com/en": {
-   "hash": "df263654b2d4321acef29dcfe2e790c63d8e1330",
+   "hash": "e6fb9a2a2ce8049042787720be6916b14e9fd68d",
    "offer_ids": [
-    "f7aebb625b1d65c3"
+    "5f57172ee50d26eb"
    ]
   },
   "http://tawarmall.qa/": {
@@ -82,7 +82,7 @@
    "verification": "auto_extracted",
    "first_seen": "2026-10-14",
    "last_seen": "2026-10-15",
-   "last_checked_at": "2026-10-15 00:17 AST"
+   "last_checked_at": "2026-10-15 06:12 AST"
   },
   "f0f3f198817ae60c": {
    "store_name": "Mall promotion",
@@ -120,7 +120,7 @@
    "verification": "auto_extracted",
    "first_seen": "2026-10-14",
    "last_seen": "2026-10-15",
-   "last_checked_at": "2026-10-15 00:17 AST"
+   "last_checked_at": "2026-10-15 06:12 AST"
   },
   "60bf3d430f9a6514": {
    "store_name": "Mall promotion",
@@ -158,7 +158,7 @@
    "verification": "auto_extracted",
    "first_seen": "2026-10-14",
    "last_seen": "2026-10-15",
-   "last_checked_at": "2026-10-15 00:17 AST"
+   "last_checked_at": "2026-10-15 06:12 AST"
   },
   "a7af6d42c86b084b": {
    "store_name": "Mall promotion",
@@ -196,7 +196,7 @@
    "verification": "auto_extracted",
    "first_seen": "2026-10-14",
    "last_seen": "2026-10-15",
-   "last_checked_at": "2026-10-15 00:17 AST"
+   "last_checked_at": "2026-10-15 06:12 AST"
   },
   "9232a6df4f30024d": {
    "store_name": "Mall promotion",
@@ -234,7 +234,7 @@
    "verification": "auto_extracted",
    "first_seen": "2026-10-14",
    "last_seen": "2026-10-15",
-   "last_checked_at": "2026-10-15 00:17 AST"
+   "last_checked_at": "2026-10-15 06:12 AST"
   },
   "39638268d5ba745f": {
    "store_name": "Mall promotion",
@@ -272,7 +272,7 @@
    "verification": "auto_extracted",
    "first_seen": "2026-10-14",
    "last_seen": "2026-10-15",
-   "last_checked_at": "2026-10-15 00:17 AST"
+   "last_checked_at": "2026-10-15 06:12 AST"
   },
   "b41765aa0f77707d": {
    "store_name": "Mall promotion",
@@ -310,7 +310,7 @@
    "verification": "auto_extracted",
    "first_seen": "2026-10-14",
    "last_seen": "2026-10-15",
-   "last_checked_at": "2026-10-15 00:17 AST"
+   "last_checked_at": "2026-10-15 06:12 AST"
   },
   "4b55bc09b1acae73": {
    "store_name": "Mall promotion",
@@ -348,7 +348,7 @@
    "verification": "auto_extracted",
    "first_seen": "2026-10-14",
    "last_seen": "2026-10-15",
-   "last_checked_at": "2026-10-15 00:17 AST"
+   "last_checked_at": "2026-10-15 06:12 AST"
   },
   "bfde9fa5e87df317": {
    "store_name": "Carrefour",
@@ -386,7 +386,7 @@
    "verification": "auto_extracted",
    "first_seen": "2026-10-14",
    "last_seen": "2026-10-15",
-   "last_checked_at": "2026-10-15 00:17 AST"
+   "last_checked_at": "2026-10-15 06:12 AST"
   },
   "f148102bc4f52b71": {
    "store_name": "Carrefour",
@@ -424,7 +424,7 @@
    "verification": "auto_extracted",
    "first_seen": "2026-10-14",
    "last_seen": "2026-10-15",
-   "last_checked_at": "2026-10-15 00:17 AST"
+   "last_checked_at": "2026-10-15 06:12 AST"
   },
   "d3d1ae2c1a14b6f9": {
    "store_name": "Mall promotion",
@@ -462,7 +462,7 @@
    "verification": "auto_extracted",
    "first_seen": "2026-10-14",
    "last_seen": "2026-10-15",
-   "last_checked_at": "2026-10-15 00:17 AST"
+   "last_checked_at": "2026-10-15 06:12 AST"
   },
   "990dda28436e9186": {
    "store_name": "Mall promotion",
@@ -500,7 +500,7 @@
    "verification": "auto_extracted",
    "first_seen": "2026-10-14",
    "last_seen": "2026-10-15",
-   "last_checked_at": "2026-10-15 00:17 AST"
+   "last_checked_at": "2026-10-15 06:12 AST"
   },
   "46f607e4520da517": {
    "store_name": "Mall promotion",
@@ -538,7 +538,7 @@
    "verification": "auto_extracted",
    "first_seen": "2026-10-14",
    "last_seen": "2026-10-15",
-   "last_checked_at": "2026-10-15 00:17 AST"
+   "last_checked_at": "2026-10-15 06:12 AST"
   },
   "c7f71e29e4e06710": {
    "store_name": "Mall promotion",
@@ -576,7 +576,7 @@
    "verification": "auto_extracted",
    "first_seen": "2026-10-14",
    "last_seen": "2026-10-15",
-   "last_checked_at": "2026-10-15 00:17 AST"
+   "last_checked_at": "2026-10-15 06:12 AST"
   },
   "5ac0b6cff221cb56": {
    "store_name": "Carrefour",
@@ -614,7 +614,7 @@
    "verification": "auto_extracted",
    "first_seen": "2026-10-14",
    "last_seen": "2026-10-15",
-   "last_checked_at": "2026-10-15 00:17 AST"
+   "last_checked_at": "2026-10-15 06:12 AST"
   },
   "b343f26f1cfda7cd": {
    "store_name": "Mall promotion",
@@ -775,6 +775,47 @@
    "first_seen": "2026-10-14",
    "last_seen": "2026-10-15",
    "last_checked_at": "2026-10-14 14:26 AST"
+  },
+  "5f57172ee50d26eb": {
+   "store_name": "Mall promotion",
+   "title": "Shopping Mall in Doha, Qatar | Place Vendôme Opening Soon – 10 am to 12 am Guest Information العربية Loading 0 % A Destination filled with Joy and happiness Where time stands still",
+   "title_ar": null,
+   "description": "Shopping Mall in Doha, Qatar | Place Vendôme Opening Soon – 10 am to 12 am Guest Information العربية Loading 0 % A Destination filled with Joy and happiness Where time stands still and the world sparkles When Beauty Blossoms Inside Out Luxury for those who define it A Destination filled with Joy and",
+   "discount_text": "0 %",
+   "promo_code": null,
+   "price": null,
+   "image": null,
+   "products": [
+    "Shopping Mall",
+    "Doha",
+    "Qatar",
+    "Place",
+    "Opening Soon"
+   ],
+   "has_terms": false,
+   "category": "Beauty",
+   "subcategory": "Skincare",
+   "tags": [],
+   "category_confidence": 0.9,
+   "needs_review": false,
+   "category_method": "rule",
+   "start_date": null,
+   "end_date": null,
+   "language": "ar",
+   "source_url": "https://www.placevendomeqatar.com/en",
+   "id": "5f57172ee50d26eb",
+   "mall_id": "place-vendome",
+   "mall_name": "Place Vendôme Qatar",
+   "seen_sources": [
+    "https://www.placevendomeqatar.com/en"
+   ],
+   "origin": "local_extractor",
+   "fingerprint": "cc448bf1b7c52df5",
+   "locked_fields": [],
+   "verification": "auto_extracted",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "last_checked_at": "2026-10-15 06:12 AST"
   }
  },
  "classifications": {
@@ -923,6 +964,14 @@
    "needs_review": true
   },
   "1dd40ceae170d438f166": {
+   "category": "Beauty",
+   "subcategory": "Skincare",
+   "tags": [],
+   "confidence": 0.9,
+   "method": "rule",
+   "needs_review": false
+  },
+  "b2ca9b563c5f206e0d99": {
    "category": "Beauty",
    "subcategory": "Skincare",
    "tags": [],
