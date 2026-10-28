@@ -2,7 +2,7 @@
  "version": 2,
  "pages": {
   "https://www.mallofqatar.com.qa/en/whats-new": {
-   "hash": "3d74712c994de4044085d956e88eb0044c036b32",
+   "hash": "f1d1a4b6dfe8d2be0ea18e748fcc0cb89916ac47",
    "offer_ids": []
   },
   "https://mallofqatar.com.qa/en/events/Gear-Up-Win": {
@@ -693,7 +693,7 @@
    "locked_fields": [],
    "verification": "auto_extracted",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-29",
    "last_checked_at": "2026-10-18 13:24 AST"
   },
   "65d4d61cd4846868": {
@@ -732,7 +732,7 @@
    "locked_fields": [],
    "verification": "auto_extracted",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-29",
    "last_checked_at": "2026-10-18 13:24 AST"
   },
   "f7aebb625b1d65c3": {
@@ -773,7 +773,7 @@
    "locked_fields": [],
    "verification": "auto_extracted",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-28",
+   "last_seen": "2026-10-29",
    "last_checked_at": "2026-10-28 15:07 AST"
   },
   "5f57172ee50d26eb": {
