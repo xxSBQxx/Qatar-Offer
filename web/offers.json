@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-13 16:56 AST",
+ "updated": "2026-11-14 02:14 AST",
  "timezone": "Asia/Qatar",
  "status": [
   {
    "id": "mall-of-qatar",
-   "checked_at": "2026-11-13 16:56 AST",
+   "checked_at": "2026-11-14 02:14 AST",
    "sources": [
     {
      "title": "www.mallofqatar.com.qa/en/whats-new",
@@ -20,7 +20,7 @@
   },
   {
    "id": "doha-festival-city",
-   "checked_at": "2026-11-13 16:56 AST",
+   "checked_at": "2026-11-14 02:14 AST",
    "sources": [
     {
      "title": "www.dohafestivalcity.com/home/whats-on/offers",
@@ -31,7 +31,7 @@
   },
   {
    "id": "place-vendome",
-   "checked_at": "2026-11-13 16:56 AST",
+   "checked_at": "2026-11-14 02:14 AST",
    "sources": [
     {
      "title": "www.placevendomeqatar.com/en",
@@ -42,17 +42,17 @@
   },
   {
    "id": "villaggio",
-   "checked_at": "2026-11-13 16:56 AST",
+   "checked_at": "2026-11-14 02:14 AST",
    "sources": []
   },
   {
    "id": "city-center",
-   "checked_at": "2026-11-13 16:56 AST",
+   "checked_at": "2026-11-14 02:14 AST",
    "sources": []
   },
   {
    "id": "ezdan-mall",
-   "checked_at": "2026-11-13 16:56 AST",
+   "checked_at": "2026-11-14 02:14 AST",
    "sources": [
     {
      "title": "gharrafa.ezdanmall.qa/promotions",
@@ -73,13 +73,19 @@
   },
   {
    "id": "lagoona-mall",
-   "checked_at": "2026-11-13 16:56 AST",
+   "checked_at": "2026-11-14 02:14 AST",
    "sources": []
   },
   {
    "id": "tawar-mall",
-   "checked_at": "2026-11-13 16:56 AST",
-   "sources": []
+   "checked_at": "2026-11-14 02:14 AST",
+   "sources": [
+    {
+     "title": "tawarmall.qa/",
+     "url": "http://tawarmall.qa/",
+     "rendered": false
+    }
+   ]
   }
  ],
  "errors": [
@@ -97,11 +103,6 @@
    "mall": "lagoona-mall",
    "url": "https://www.lagoonamall.com",
    "error": "robots.txt disallowed this URL"
-  },
-  {
-   "mall": "tawar-mall",
-   "url": "http://tawarmall.qa/",
-   "error": "503 Server Error: Service Unavailable for url: http://tawarmall.qa/"
   }
  ],
  "offers": [
