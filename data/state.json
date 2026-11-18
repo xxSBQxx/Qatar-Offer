@@ -2,7 +2,7 @@
  "version": 2,
  "pages": {
   "https://www.mallofqatar.com.qa/en/whats-new": {
-   "hash": "9a23d7a074af373372704bd1b094766cc36c1770",
+   "hash": "a465daa7189479fe5136ac3bb53046ef346dc00b",
    "offer_ids": []
   },
   "https://mallofqatar.com.qa/en/events/Gear-Up-Win": {
@@ -30,9 +30,9 @@
    "offer_ids": []
   },
   "https://www.placevendomeqatar.com/en": {
-   "hash": "709485991c46d9896748bd88ba9659c84df048e1",
+   "hash": "df263654b2d4321acef29dcfe2e790c63d8e1330",
    "offer_ids": [
-    "b343f26f1cfda7cd"
+    "f7aebb625b1d65c3"
    ]
   },
   "http://tawarmall.qa/": {
@@ -773,8 +773,8 @@
    "locked_fields": [],
    "verification": "auto_extracted",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-11-17",
-   "last_checked_at": "2026-11-17 18:29 AST"
+   "last_seen": "2026-11-18",
+   "last_checked_at": "2026-11-18 18:06 AST"
   },
   "5f57172ee50d26eb": {
    "store_name": "Mall promotion",
