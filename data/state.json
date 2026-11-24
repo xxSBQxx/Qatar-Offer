@@ -30,13 +30,13 @@
    "offer_ids": []
   },
   "https://www.placevendomeqatar.com/en": {
-   "hash": "709485991c46d9896748bd88ba9659c84df048e1",
+   "hash": "a2c07f8e4c6e2746084eaf7d7200f353462cb875",
    "offer_ids": [
-    "b343f26f1cfda7cd"
+    "4582288a73e524dd"
    ]
   },
   "http://tawarmall.qa/": {
-   "hash": "5bb70fbc13fdd65e421c9fb3888a6f6b466c214c",
+   "hash": "375a6c695d0e1216962abea10b8916b77777e5a3",
    "offer_ids": [
     "7b7bbd1ea1e9a3e8",
     "65d4d61cd4846868"
@@ -694,7 +694,7 @@
    "verification": "auto_extracted",
    "first_seen": "2026-10-14",
    "last_seen": "2026-11-24",
-   "last_checked_at": "2026-11-16 17:47 AST"
+   "last_checked_at": "2026-11-24 19:57 AST"
   },
   "65d4d61cd4846868": {
    "store_name": "Mall promotion",
@@ -733,7 +733,7 @@
    "verification": "auto_extracted",
    "first_seen": "2026-10-14",
    "last_seen": "2026-11-24",
-   "last_checked_at": "2026-11-16 17:47 AST"
+   "last_checked_at": "2026-11-24 19:57 AST"
   },
   "f7aebb625b1d65c3": {
    "store_name": "Mall promotion",
@@ -939,6 +939,47 @@
    "first_seen": "2026-10-16",
    "last_seen": "2026-11-21",
    "last_checked_at": "2026-11-20 17:53 AST"
+  },
+  "4582288a73e524dd": {
+   "store_name": "Mall promotion",
+   "title": "Shopping Mall in Doha, Qatar | Place Vendôme Open Now – 10 am to 11 pm Guest Information العربية Loading 0 % SCROLL DOWN A Destination filled with Joy and happiness Where time stan",
+   "title_ar": null,
+   "description": "Shopping Mall in Doha, Qatar | Place Vendôme Open Now – 10 am to 11 pm Guest Information العربية Loading 0 % SCROLL DOWN A Destination filled with Joy and happiness Where time stands still and the world sparkles When Beauty Blossoms Inside Out Luxury for those who define it A Destination filled with",
+   "discount_text": "0 %",
+   "promo_code": null,
+   "price": null,
+   "image": null,
+   "products": [
+    "Shopping Mall",
+    "Doha",
+    "Qatar",
+    "Place",
+    "Open Now"
+   ],
+   "has_terms": false,
+   "category": "Beauty",
+   "subcategory": "Skincare",
+   "tags": [],
+   "category_confidence": 0.9,
+   "needs_review": false,
+   "category_method": "rule",
+   "start_date": null,
+   "end_date": null,
+   "language": "ar",
+   "source_url": "https://www.placevendomeqatar.com/en",
+   "id": "4582288a73e524dd",
+   "mall_id": "place-vendome",
+   "mall_name": "Place Vendôme Qatar",
+   "seen_sources": [
+    "https://www.placevendomeqatar.com/en"
+   ],
+   "origin": "local_extractor",
+   "fingerprint": "83027776643b118f",
+   "locked_fields": [],
+   "verification": "auto_extracted",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "last_checked_at": "2026-11-24 19:57 AST"
   }
  },
  "classifications": {
@@ -1119,6 +1160,14 @@
    "needs_review": false
   },
   "dc2853c142df35d2b25a": {
+   "category": "Beauty",
+   "subcategory": "Skincare",
+   "tags": [],
+   "confidence": 0.9,
+   "method": "rule",
+   "needs_review": false
+  },
+  "cd8f76feb2ecfceb2f9a": {
    "category": "Beauty",
    "subcategory": "Skincare",
    "tags": [],
